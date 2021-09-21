@@ -6,3 +6,6 @@
 
 - [Home page](https://altershape.com)
 - [Whitepaper](https://altershape.com/whitepaper/)
+
+
+Copyright © 2021 [Alter Shape](https://altershape.com).
